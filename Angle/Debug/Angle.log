@@ -1,0 +1,3 @@
+﻿  angle.c
+C:\Users\eberechukwu\source\repos\Angle\Angle\angle.c(82,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Angle.vcxproj -> C:\Users\eberechukwu\source\repos\Angle\Debug\Angle.exe
